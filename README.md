@@ -1,4 +1,4 @@
-# Bank-Appication
+# Bank-Application
 This application models a bank ATM it has two types of users, admin and a general user. As a user you are able log in to different accounts, transfer funds, deposit funds, withdrawl funds, and change your password. As a admin you are able to freeze accounts, view single or all accounts, freeze accounts, create and delete users.
 
 <!-- GETTING STARTED -->
