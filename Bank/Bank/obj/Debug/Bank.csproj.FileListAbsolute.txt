@@ -1,0 +1,14 @@
+C:\Users\carlo\source\repos\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\carlo\source\repos\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\carlo\source\repos\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\carlo\source\repos\Bank\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\Users\carlo\source\repos\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\carlo\source\repos\Bank\Bank\obj\Debug\Bank.pdb
+C:\Users\carlo\OneDrive\Desktop\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\carlo\OneDrive\Desktop\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\carlo\OneDrive\Desktop\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\carlo\OneDrive\Desktop\Bank\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Desktop\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Desktop\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\carlo\OneDrive\Desktop\Bank\Bank\obj\Debug\Bank.pdb

@@ -1,0 +1,2 @@
+csantiago,password,Carlos Santiago,123456,10000,100
+tsmith,password1,Tiffany Smith,123457,100,200
