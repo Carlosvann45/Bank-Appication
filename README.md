@@ -1,9 +1,34 @@
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#sort-and-search">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="admin-logins">Admin Logins</a></li>
+        <li><a href="user-logins">User Logins</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
+
 # Bank-Application
-This application models a bank ATM it has two types of users, admin and a general user. As a user you are able log in to different accounts, transfer funds, deposit funds, withdrawl funds, and change your password. As a admin you are able to freeze accounts, view single or all accounts, freeze accounts, create and delete users.
+This application models a bank ATM it has two types of users, admin and a general user. As a user you are able log in to different accounts, transfer funds, deposit funds, withdrawl funds, and change your password. As a admin you are able to  view single or all accounts, freeze accounts, create and delete users, and change your password.
 
 ### Built With
 - [C# .NET framework](https://docs.microsoft.com/en-us/dotnet/framework/)
 - [Visual Studio IDE](https://visualstudio.microsoft.com/)
+
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
