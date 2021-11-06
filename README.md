@@ -1,31 +1,33 @@
 # Bank-Application
 This application models a bank ATM it has two types of users, admin and a general user. As a user you are able log in to different accounts, transfer funds, deposit funds, withdrawl funds, and change your password. As a admin you are able to freeze accounts, view single or all accounts, freeze accounts, create and delete users.
 
+### Built With
+- [C# .NET framework](https://docs.microsoft.com/en-us/dotnet/framework/)
+- [Visual Studio IDE](https://visualstudio.microsoft.com/)
+
 <!-- GETTING STARTED -->
 ## Getting Started
 
 You will need visual studio to run the application locally. other then that follow the Installation instructions to access the code. 
 Also, dont forget to follow the proccess in contributing. If you have any questions feel free to contact me with my information below.
 
-### App Information 
+### Admin Logins
 
-#### Admin Logins
-
-1. Admin
+- Admin
    - username: admin
    - password: password
 
-#### User Logins
+### User Logins
 
-1. Carlos Santiago
+- Carlos Santiago
    - username: csantiago
    - password: password
 
-2. Tiffany Smith
+- Tiffany Smith
    - username: tsmith
    - password: password
 
-3. Bob Smith
+- Bob Smith
    - username: bsmith
    - password: password
 
@@ -35,6 +37,7 @@ Also, dont forget to follow the proccess in contributing. If you have any questi
    ```sh
    git clone https://github.com/github_username/repo_name.git
    ```
+2. Open with you favorite IDE
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
