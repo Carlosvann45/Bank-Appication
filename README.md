@@ -62,7 +62,6 @@ Also, dont forget to follow the proccess in contributing. If you have any questi
    ```sh
    git clone https://github.com/github_username/repo_name.git
    ```
-2. Open with you favorite IDE
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
