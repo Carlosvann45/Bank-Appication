@@ -8,7 +8,7 @@ This application models a bank ATM it has two types of users, admin and a genera
 <!-- GETTING STARTED -->
 ## Getting Started
 
-You will need visual studio to run the application locally. other then that follow the Installation instructions to access the code. 
+You will need an IDE to run the application locally. other then that follow the Installation instructions to access the code. 
 Also, dont forget to follow the proccess in contributing. If you have any questions feel free to contact me with my information below.
 
 ### Admin Logins
